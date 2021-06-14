@@ -1,7 +1,7 @@
 .. Yuan's NotesRepos documentation master file, created by
    sphinx-quickstart on Sun Jun 13 17:36:15 2021.
 
-Welcome to Yuan's documentation!
+Welcome to Yuan's notes repository!
 ====================================
 
 .. toctree::
