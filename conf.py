@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'DocRepos'
+project = 'NotesRepos'
 copyright = '2021, Yuan Zhan'
 author = 'Yuan Zhan'
 
